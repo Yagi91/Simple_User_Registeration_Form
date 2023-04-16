@@ -1,4 +1,4 @@
-# Simple_User_Registeration_Form
+# Simple_User_Registration_Form
 A clean registration form I created with HTML and CSS only
 
 contains username, email, password, and password confirmation inputs
